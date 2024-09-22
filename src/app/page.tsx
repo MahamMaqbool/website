@@ -6,7 +6,7 @@ export default function Home() {
       {/* Background Image */}
       <div className="absolute inset-0 -z-10">
         <Image
-          src="/img.png"
+          src="/bg.jpg"
           alt="Background"
           layout="fill"
           objectFit="cover"
